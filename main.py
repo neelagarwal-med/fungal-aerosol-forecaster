@@ -325,5 +325,5 @@ elif page == "About the Author":
     st.markdown("""
     Developed by a third year Med Student at OSU College of Medicine at the intersection of **Atmospheric Physics** and **Precision Public Health**. 
     This tool transforms global weather and satellite datasets into personalized, actionable clinical prophylaxis 
-    for the most vulnerable patient populations.
+    for the most vulnerable patient populations. Contact me at neel.agarwal@osumc.edu
     """)

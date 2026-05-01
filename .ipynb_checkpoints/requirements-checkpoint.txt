@@ -1,9 +1,0 @@
-streamlit
-numpy<2.3
-xarray
-matplotlib
-geopy
-fsspec
-zarr
-gcsfs
-netCDF4

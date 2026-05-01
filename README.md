@@ -26,5 +26,5 @@ Patients on calcineurin inhibitors (e.g., Tacrolimus) have suppressed T-cell res
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/YOUR-USERNAME/fungal-aerosol-forecaster.git](https://github.com/YOUR-USERNAME/fungal-aerosol-forecaster.git)
+   git clone [https://github.com/neelagarwal-med/fungal-aerosol-forecaster.git](https://github.com/YOUR-USERNAME/fungal-aerosol-forecaster.git)
    cd fungal-aerosol-forecaster

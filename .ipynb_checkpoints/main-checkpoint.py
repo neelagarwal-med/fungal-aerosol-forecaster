@@ -281,23 +281,23 @@ elif page == "Patient Guide & Science":
     st.header("How Fungi Gets Into the Air")
     st.write("""
     Unlike viruses or bacteria, you do not catch endemic fungi from other people. They live naturally in the dirt. 
-    When the soil is wet, they grow like a mat. When the soil undergoes severe drought, those mats undergo a process called **rhexolytic dehiscence**. 
+    When the soil is wet, they grow like a mat. When the soil undergoes severe drought, those mats undergo a process called **rhexolytic dehiscence** [3]. 
     This means their cell walls shatter into microscopic, barrel-shaped pieces called **arthroconidia** (spores). Because they are so tiny and light, 
     even a moderate breeze, a passing truck, or a shovel hitting the dirt can launch them into the air you breathe.
     """)
 
     st.header("Why Your Medications Put You At Risk")
     st.markdown("""
-    When you receive a transplant, you are given medications like **Tacrolimus (Prograf)** or **Cyclosporine**. These are *calcineurin inhibitors*. 
+    When you receive a transplant, you are given medications like **Tacrolimus (Prograf)** or **Cyclosporine**. These are *calcineurin inhibitors* [2]. 
     
     **How they work:**
     * **T-Cells:** Your body has "soldier" cells called T-cells that usually hunt down and destroy fungal spores when you inhale them. 
     * **The Off Switch:** Tacrolimus essentially flips the "off switch" on your T-cells to stop them from attacking your new organ. 
-    * **The Danger:** Because your T-cells are turned off, your lungs cannot defend against inhaled spores. While a healthy person might need to inhale 10,000 spores to get sick, a transplant patient can develop a severe, life-threatening infection (called Disseminated Disease) from inhaling just a few spores.
+    * **The Danger:** Because your T-cells are turned off, your lungs cannot defend against inhaled spores. While a healthy person might need to inhale 10,000 spores to get sick, a transplant patient can develop a severe, life-threatening infection (called Disseminated Disease) from inhaling just a few spores [2].
     """)
 
     st.header("Fungi Across the United States")
-    st.write("Different regions of the US are home to different soil fungi. If you travel, your risk travels with you.")
+    st.write("Different regions of the US are home to different soil fungi. If you travel, your risk travels with you [1].")
     st.table({
         "Disease": ["Valley Fever", "Histoplasmosis", "Blastomycosis", "Cryptococcosis", "Sporotrichosis", "Aspergillosis"],
         "Fungus Name": ["Coccidioides", "Histoplasma", "Blastomyces", "Cryptococcus gattii", "Sporothrix", "Aspergillus"],
@@ -307,7 +307,7 @@ elif page == "Patient Guide & Science":
 
     st.header("What To Do If You Feel Sick")
     st.markdown("""
-    Fungal infections often mimic the flu, COVID-19, or bacterial pneumonia. If you develop a fever, a dry cough, night sweats, or extreme fatigue that lasts more than a week, **contact your transplant coordinator immediately.** *Crucial Tip:* Always tell your doctor where you have recently traveled or if you have been exposed to a dust storm. Doctors outside of the Southwest often forget to test for things like Valley Fever!
+    Fungal infections often mimic the flu, COVID-19, or bacterial pneumonia. If you develop a fever, a dry cough, night sweats, or extreme fatigue that lasts more than a week, **contact your transplant coordinator immediately.** *Crucial Tip:* Always tell your doctor where you have recently traveled or if you have been exposed to a dust storm. Doctors outside of the Southwest often forget to test for things like Valley Fever! [4]
     """)
 
     st.divider()
